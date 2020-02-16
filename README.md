@@ -11,7 +11,7 @@ Try It
 
 [ahfarmer.github.io/calculator](https://ahfarmer.github.io/calculator/)
 
-
+or, [click here](http://calculator-quadnix.engine.quadnix.com) to play Calculator in Quadnix Plugins.
 
 Install
 ---
